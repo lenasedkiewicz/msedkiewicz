@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @msedkiewicz
-- 👀 I’m interested in front end development of websites.
+- 👀 I’m interested in frontend development of WordPress websites, but sometimes I do something on backend as well
 - 🌱 I’m currently learning JS and PHP.
 - 💞️ I’m working as a Junior WordPress Developer
 - 📫 How to reach me: magdalenainspirations@gmail.com
