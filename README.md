@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @msedkiewicz
-- 👀 I’m interested in frontend development of WordPress websites, but sometimes I do something on backend as well
-- 🌱 I’m currently learning JS and PHP.
-- 💞️ I’m working as a Junior WordPress Developer
+- 👋 Hi, I’m @msedkiewicz - Psychologist and Developer.
+- 👀 I’m interested in Frontend, but I'm diving more and more into JavaScript and React.
+- 🌱 I’m growing in fields of JavaScript, Bootstrap, React, Redux, Gatsby. Next in queue is Node.js (backend) and TypeScript.
+- 💞️ I was working as a Junior WordPress Developer, currently I work as a Junior Web Developer.
 - 📫 How to reach me: magdalenainspirations@gmail.com
 
 <!---
