@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @msedkiewicz - Psychologist and Developer.
-- 👀 I’m interested in Frontend, but I'm diving more and more into JavaScript and React.
+- 👀 I’m interested in Frontend. I'm diving more and more into JavaScript and React.
 - 🌱 I’m growing in fields of JavaScript, Bootstrap, React, Redux, Gatsby. Next in queue is Node.js (backend) and TypeScript.
-- 💞️ I was working as a Junior WordPress Developer, currently I work as a Junior Web Developer.
+- 💞️ I have 2.5 years of commercial experience in WordPress / FrontEnd programming.
 - 📫 How to reach me: lena@msedkiewicz.pl
 
 <!---
